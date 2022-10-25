@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">I&amp;T</string>
+    <string name="scansiona">Scansiona</string>
+    <string name="avanti">Avanti</string>
+    <string name="ottieni_posizione">Ottieni posizione</string>
+    <string name="invia">Invia</string>
+    <string name="ok">Invia</string>
+    <string name="confirm_message">Sei sicuro di voler inviare i colli e la posizione?</string>
+    <string name="confirm_title">Invio colli</string>
+    <string name="cancel">Annulla</string>
+    <string name="Inviati">Colli inviati</string>
+</resources>
